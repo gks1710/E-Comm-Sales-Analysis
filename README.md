@@ -1,4 +1,4 @@
-🛒 #E-commerce Sales Analysis Dashboard with PowerBI
+# 🛒 *E-commerce Sales Analysis Dashboard with PowerBI*
 
 ℹ️ Explore this comprehensive dashboard crafted with PowerBI, offering invaluable insights into e-commerce sales data. From tracking revenue trends to analyzing customer purchasing behavior, this project equips businesses with the tools they need to make informed decisions and maximize profitability.
 
